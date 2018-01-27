@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Jenkins\workspace\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe.config
+C:\Program Files (x86)\Jenkins\workspace\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe
+C:\Program Files (x86)\Jenkins\workspace\HellowWorld\HellowWorld\bin\Debug\HellowWorld.pdb
+C:\Program Files (x86)\Jenkins\workspace\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Jenkins\workspace\HellowWorld\HellowWorld\obj\Debug\HellowWorld.exe
+C:\Program Files (x86)\Jenkins\workspace\HellowWorld\HellowWorld\obj\Debug\HellowWorld.pdb
